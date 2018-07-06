@@ -1,0 +1,23 @@
+{
+  "name": "belaazy",
+  "version": "1.0.0",
+  "description": "online business platform, local business services",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seoashish/belaazy.git"
+  },
+  "author": "Ashish Kerketta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seoashish/belaazy/issues"
+  },
+  "homepage": "https://github.com/seoashish/belaazy#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "twig": "^1.12.0"
+  }
+}
